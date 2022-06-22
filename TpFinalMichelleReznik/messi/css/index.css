@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600;800&display=swap');
+
+*{font-family: 'Montserrat', sans-serif;}
+
+.contenedor{
+	background-color: #004170;
+	display: block;
+	margin-top: 25%;
+	padding: 10PX;
+	width: 100%;
+}
+.logo{
+	margin-left: 10%;
+
+}
+footer{
+	background-color: grey;
+}
+p{
+	color: white;
+	display: inline;
+	text-align: center;
+}
+.subtitulo{
+	display: block;
+		color: white;
+
+
+	text-align: center;
+}
+h2{
+	color: white;
+	text-align: center; 
+	display: block;
+}
+h1{
+	background-color: #e30613;
+	font-size: 20px;
+		padding-top: 25px;
+	padding-bottom: 25px;
+	float: right;
+	margin-right: 35%;
+
+	text-align: center; 
+	font-family: 'Montserrat', sans-serif, 800;
+}
+.azul{
+	background-color: #004170;
+		padding-top: 25px;
+	padding-bottom: 25px;
+}
+input{
+	background-color: none;
+	text-decoration: NONE;
+	margin-bottom: 5px;
+	margin-top: 5px;
+
+}
+header{
+	background-color: white;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+FORM{
+	text-align: center;
+}
+.ENVIAR{
+	background-color: #e30613;
+	padding: 20PX;
+	text-decoration: NONE;
+	border: NONE;
+	color: WHITE;
+}
+.ENVIAR:hover{
+	background-color: gold;
+	transition-duration: 1s;
+}
+
+.footer {text-align: center;}
+
+
+
+body {
+background-image: url("messi.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+
+
+}
